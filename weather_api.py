@@ -4,7 +4,7 @@ import json
 import time
 
 # Define your API key for accessing weather data
-API_KEY = "9b8447ce275e4f45b49133216230511"
+API_KEY = "Keep your Api Key"
 
 # Function to get weather data for a given city
 def get_weather_data(city):
